@@ -60,6 +60,3 @@ Notes
 - Replace YOUR_CONVERTER_API_URL in background.js with the URL of your API or server endpoint that converts the web page into an RSS feed.
 - This is a basic example and may need further customization and error handling based on your requirements.
 
-License
--------
-This project is licensed under the MIT License. See the LICENSE file for details.
